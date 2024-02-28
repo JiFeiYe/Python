@@ -5,8 +5,8 @@ import requests, re, os, time, shutil
 url = "https://unpkg.com/"
 
 # mod = "axios"
-mod = "element-ui"
-version = "2.15.14"
+mod = "@nutui/nutui"
+version = "4.2.7"
 
 headers = {
     "Accept-Language": "zh-CN,zh;q=0.8",
